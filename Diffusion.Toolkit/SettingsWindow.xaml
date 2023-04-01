@@ -139,6 +139,7 @@
                                 <ComboBoxItem>System</ComboBoxItem>
                                 <ComboBoxItem>Light</ComboBoxItem>
                                 <ComboBoxItem>Dark</ComboBoxItem>
+                                <ComboBoxItem>Dark - Gradio Themed</ComboBoxItem>
                             </ComboBox>
                         </Grid>
                     </StackPanel>
